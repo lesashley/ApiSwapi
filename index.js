@@ -5,7 +5,8 @@ const render = (root) =>{
 }
 
 const state = {
-  families : null
+  families : null,
+  familiesSelected: null
 };
 
 $(_=>{
